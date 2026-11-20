@@ -1,0 +1,45 @@
+{
+  "format": "aulinewane.catalog",
+  "schemaVersion": 2,
+  "minReaderSchemaVersion": 2,
+  "catalogId": "aulinewane-main",
+  "catalogVersion": 1,
+  "publishedAt": "2026-11-20T11:36:56.765Z",
+  "generator": "AULINEWANE Saga Studio 0.2.0",
+  "locale": "fr-FR",
+  "imageBaseUrls": {
+    "tmdb": "https://image.tmdb.org/t/p/"
+  },
+  "stats": {
+    "collections": 1143,
+    "works": 8979,
+    "watchOrders": 59
+  },
+  "files": [
+    {
+      "path": "v1/collections.json",
+      "sha256": "0a9b672a73b3d228eaddc524229f64a81e744c08d503a249e9edfeb90ce1065b",
+      "size": 2618469,
+      "contentType": "application/json"
+    },
+    {
+      "path": "v1/works.json",
+      "sha256": "f9a622f93578d666c0cbefcd7a94d50e8497f29a8881f75242abca5669fcd87e",
+      "size": 12350069,
+      "contentType": "application/json"
+    },
+    {
+      "path": "v1/watch-orders.json",
+      "sha256": "35715f5a07226277cec076a255092652b5185a5a91b684e5f11f75a4778bf1ff",
+      "size": 145356,
+      "contentType": "application/json"
+    },
+    {
+      "path": "v1/metadata.json",
+      "sha256": "a163cfed6989a654c61fc20c1a4fe86495ad9920b27b4f1e2c09e45c50473406",
+      "size": 6431122,
+      "contentType": "application/json"
+    }
+  ],
+  "assets": []
+}

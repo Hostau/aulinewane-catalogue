@@ -1,0 +1,5201 @@
+{
+  "schemaVersion": 2,
+  "catalogVersion": 1,
+  "watchOrders": [
+    {
+      "id": "p_perso_ironman_ordre",
+      "collectionId": "c_perso_ironman",
+      "name": "Parcours conseillé",
+      "kind": "custom",
+      "description": "Parcours éditorial non strictement chronologique, privilégie les apparitions importantes.",
+      "steps": [
+        {
+          "id": "s_perso_ironman_ordre_00001",
+          "type": "work",
+          "workId": "w_9a1fc4gfx9",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_ironman_ordre_00002",
+          "type": "work",
+          "workId": "w_iron_man_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_ironman_ordre_00003",
+          "type": "work",
+          "workId": "w_avengers_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_ironman_ordre_00004",
+          "type": "work",
+          "workId": "w_iron_man_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_ironman_ordre_00005",
+          "type": "work",
+          "workId": "w_avengers_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_ironman_ordre_00006",
+          "type": "work",
+          "workId": "w_captain_america_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_ironman_ordre_00007",
+          "type": "work",
+          "workId": "w_spider_homecoming",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_ironman_ordre_00008",
+          "type": "work",
+          "workId": "w_avengers_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_ironman_ordre_00009",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_perso_captain_america_ordre",
+      "collectionId": "c_perso_captain_america",
+      "name": "Parcours conseillé",
+      "kind": "custom",
+      "description": "Parcours éditorial non strictement chronologique, privilégie les apparitions importantes.",
+      "steps": [
+        {
+          "id": "s_perso_captain_america_ordre_00001",
+          "type": "work",
+          "workId": "w_captain_america_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_captain_america_ordre_00002",
+          "type": "work",
+          "workId": "w_avengers_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_captain_america_ordre_00003",
+          "type": "work",
+          "workId": "w_captain_america_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_captain_america_ordre_00004",
+          "type": "work",
+          "workId": "w_avengers_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_captain_america_ordre_00005",
+          "type": "work",
+          "workId": "w_captain_america_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_captain_america_ordre_00006",
+          "type": "work",
+          "workId": "w_avengers_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_captain_america_ordre_00007",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_captain_america_ordre_00008",
+          "type": "season",
+          "workId": "w_falcon_winter_soldier",
+          "seasonNumber": 1,
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_captain_america_ordre_00009",
+          "type": "work",
+          "workId": "w_captain_america_4",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_perso_thor_ordre",
+      "collectionId": "c_perso_thor",
+      "name": "Parcours conseillé",
+      "kind": "custom",
+      "description": "Parcours éditorial non strictement chronologique, privilégie les apparitions importantes.",
+      "steps": [
+        {
+          "id": "s_perso_thor_ordre_00001",
+          "type": "work",
+          "workId": "w_thor",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_thor_ordre_00002",
+          "type": "work",
+          "workId": "w_avengers_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_thor_ordre_00003",
+          "type": "work",
+          "workId": "w_thor_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_thor_ordre_00004",
+          "type": "work",
+          "workId": "w_avengers_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_thor_ordre_00005",
+          "type": "work",
+          "workId": "w_thor_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_thor_ordre_00006",
+          "type": "work",
+          "workId": "w_avengers_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_thor_ordre_00007",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_thor_ordre_00008",
+          "type": "work",
+          "workId": "w_thor_4",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_perso_scarletwitch_ordre",
+      "collectionId": "c_perso_scarletwitch",
+      "name": "Parcours conseillé",
+      "kind": "custom",
+      "description": "Parcours éditorial non strictement chronologique, privilégie les apparitions importantes.",
+      "steps": [
+        {
+          "id": "s_perso_scarletwitch_ordre_00001",
+          "type": "work",
+          "workId": "w_avengers_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_scarletwitch_ordre_00002",
+          "type": "work",
+          "workId": "w_captain_america_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_scarletwitch_ordre_00003",
+          "type": "work",
+          "workId": "w_avengers_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_scarletwitch_ordre_00004",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_scarletwitch_ordre_00005",
+          "type": "season",
+          "workId": "w_wandavision",
+          "seasonNumber": 1,
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_scarletwitch_ordre_00006",
+          "type": "work",
+          "workId": "w_doctor_strange_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_scarletwitch_ordre_00007",
+          "type": "season",
+          "workId": "w_agatha",
+          "seasonNumber": 1,
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_scarletwitch_ordre_00008",
+          "type": "season",
+          "workId": "w_visionquest",
+          "seasonNumber": 1,
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_perso_doctorstrange_ordre",
+      "collectionId": "c_perso_doctorstrange",
+      "name": "Parcours conseillé",
+      "kind": "custom",
+      "description": "Parcours éditorial non strictement chronologique, privilégie les apparitions importantes.",
+      "steps": [
+        {
+          "id": "s_perso_doctorstrange_ordre_00001",
+          "type": "work",
+          "workId": "w_doctor_strange",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_doctorstrange_ordre_00002",
+          "type": "work",
+          "workId": "w_thor_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_doctorstrange_ordre_00003",
+          "type": "work",
+          "workId": "w_avengers_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_doctorstrange_ordre_00004",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_doctorstrange_ordre_00005",
+          "type": "work",
+          "workId": "w_spider_no_way_home",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_doctorstrange_ordre_00006",
+          "type": "work",
+          "workId": "w_doctor_strange_2",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_spider_multivers_recommande",
+      "collectionId": "c_spiderman_multivers",
+      "name": "Spider-Man : préparation au multivers",
+      "kind": "custom",
+      "description": "Parcours éditorial utile pour les références de No Way Home ; univers distincts, pas une chronologie commune.",
+      "steps": [
+        {
+          "id": "s_spider_multivers_recommande_00001",
+          "type": "work",
+          "workId": "w_spiderman_2002",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_multivers_recommande_00002",
+          "type": "work",
+          "workId": "w_spiderman_2_2004",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_multivers_recommande_00003",
+          "type": "work",
+          "workId": "w_spiderman_3_2007",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_multivers_recommande_00004",
+          "type": "work",
+          "workId": "w_amazing_spiderman_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_multivers_recommande_00005",
+          "type": "work",
+          "workId": "w_amazing_spiderman_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_multivers_recommande_00006",
+          "type": "work",
+          "workId": "w_spider_homecoming",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_multivers_recommande_00007",
+          "type": "work",
+          "workId": "w_spider_verse_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_multivers_recommande_00008",
+          "type": "work",
+          "workId": "w_spider_far_from_home",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_multivers_recommande_00009",
+          "type": "work",
+          "workId": "w_spider_no_way_home",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_multivers_recommande_00010",
+          "type": "work",
+          "workId": "w_spider_verse_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_multivers_recommande_00011",
+          "type": "work",
+          "workId": "w_spider_brand_new_day",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_spider_raimi_ordre",
+      "collectionId": "c_spider_raimi",
+      "name": "Ordre de visionnage",
+      "kind": "release",
+      "description": "Films dans leur ordre de sortie.",
+      "steps": [
+        {
+          "id": "s_spider_raimi_ordre_00001",
+          "type": "work",
+          "workId": "w_spiderman_2002",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_raimi_ordre_00002",
+          "type": "work",
+          "workId": "w_spiderman_2_2004",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_raimi_ordre_00003",
+          "type": "work",
+          "workId": "w_spiderman_3_2007",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_spider_webb_ordre",
+      "collectionId": "c_spider_webb",
+      "name": "Ordre de visionnage",
+      "kind": "release",
+      "description": "Films dans leur ordre de sortie.",
+      "steps": [
+        {
+          "id": "s_spider_webb_ordre_00001",
+          "type": "work",
+          "workId": "w_amazing_spiderman_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_webb_ordre_00002",
+          "type": "work",
+          "workId": "w_amazing_spiderman_2",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_spider_holland_ordre",
+      "collectionId": "c_spider_holland",
+      "name": "Ordre de visionnage",
+      "kind": "release",
+      "description": "Films dans leur ordre de sortie.",
+      "steps": [
+        {
+          "id": "s_spider_holland_ordre_00001",
+          "type": "work",
+          "workId": "w_spider_homecoming",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_holland_ordre_00002",
+          "type": "work",
+          "workId": "w_spider_far_from_home",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_holland_ordre_00003",
+          "type": "work",
+          "workId": "w_spider_no_way_home",
+          "uncertain": false
+        },
+        {
+          "id": "s_spider_holland_ordre_00004",
+          "type": "work",
+          "workId": "w_spider_brand_new_day",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_spiderverse_ordre",
+      "collectionId": "c_spiderverse_anime",
+      "name": "Spider-Verse — ordre des films",
+      "kind": "release",
+      "description": "Le court-métrage 2024 est un bonus après le second film.",
+      "steps": [
+        {
+          "id": "s_spiderverse_ordre_00001",
+          "type": "work",
+          "workId": "w_spider_verse_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_spiderverse_ordre_00002",
+          "type": "work",
+          "workId": "w_spider_verse_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_spiderverse_ordre_00003",
+          "type": "work",
+          "workId": "w_the_spider_within",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_sony_ssu_release",
+      "collectionId": "c_sony_ssu",
+      "name": "Sony SSU — ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie. Spider-Noir représente une continuité à part, pas une suite directe de Venom.",
+      "steps": [
+        {
+          "id": "s_sony_ssu_release_00001",
+          "type": "work",
+          "workId": "w_venom_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_sony_ssu_release_00002",
+          "type": "work",
+          "workId": "w_venom_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_sony_ssu_release_00003",
+          "type": "work",
+          "workId": "w_morbius",
+          "uncertain": false
+        },
+        {
+          "id": "s_sony_ssu_release_00004",
+          "type": "work",
+          "workId": "w_madame_web",
+          "uncertain": false
+        },
+        {
+          "id": "s_sony_ssu_release_00005",
+          "type": "work",
+          "workId": "w_venom_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_sony_ssu_release_00006",
+          "type": "work",
+          "workId": "w_kraven",
+          "uncertain": false
+        },
+        {
+          "id": "s_sony_ssu_release_00007",
+          "type": "season",
+          "workId": "w_spider_noir",
+          "seasonNumber": 1,
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_marvel_sony_spider_noir_sortie",
+      "collectionId": "c_sony_spider_noir",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_sony_spider_noir_00001",
+          "type": "work",
+          "workId": "w_spider_noir",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_perso_antman_ordre",
+      "collectionId": "c_perso_antman",
+      "name": "Parcours conseillé",
+      "kind": "custom",
+      "description": "Parcours éditorial non strictement chronologique, privilégie les apparitions importantes.",
+      "steps": [
+        {
+          "id": "s_perso_antman_ordre_00001",
+          "type": "work",
+          "workId": "w_ant_man",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_antman_ordre_00002",
+          "type": "work",
+          "workId": "w_captain_america_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_antman_ordre_00003",
+          "type": "work",
+          "workId": "w_ant_man_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_antman_ordre_00004",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_antman_ordre_00005",
+          "type": "work",
+          "workId": "w_ant_man_3",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_perso_deadpool_ordre",
+      "collectionId": "c_perso_deadpool",
+      "name": "Parcours conseillé",
+      "kind": "custom",
+      "description": "Parcours éditorial non strictement chronologique, privilégie les apparitions importantes.",
+      "steps": [
+        {
+          "id": "s_perso_deadpool_ordre_00001",
+          "type": "work",
+          "workId": "w_deadpool_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_deadpool_ordre_00002",
+          "type": "work",
+          "workId": "w_deadpool_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_deadpool_ordre_00003",
+          "type": "work",
+          "workId": "w_deadpool_wolverine",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_perso_blackpanther_ordre",
+      "collectionId": "c_perso_blackpanther",
+      "name": "Parcours conseillé",
+      "kind": "custom",
+      "description": "Parcours éditorial non strictement chronologique, privilégie les apparitions importantes.",
+      "steps": [
+        {
+          "id": "s_perso_blackpanther_ordre_00001",
+          "type": "work",
+          "workId": "w_captain_america_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_blackpanther_ordre_00002",
+          "type": "work",
+          "workId": "w_black_panther",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_blackpanther_ordre_00003",
+          "type": "work",
+          "workId": "w_avengers_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_blackpanther_ordre_00004",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_blackpanther_ordre_00005",
+          "type": "work",
+          "workId": "w_black_panther_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_blackpanther_ordre_00006",
+          "type": "season",
+          "workId": "w_eyes_wakanda",
+          "seasonNumber": 1,
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_blackpanther_ordre_00007",
+          "type": "season",
+          "workId": "w_ironheart",
+          "seasonNumber": 1,
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_perso_gotg_ordre",
+      "collectionId": "c_perso_gotg",
+      "name": "Parcours conseillé",
+      "kind": "custom",
+      "description": "Parcours éditorial non strictement chronologique, privilégie les apparitions importantes.",
+      "steps": [
+        {
+          "id": "s_perso_gotg_ordre_00001",
+          "type": "work",
+          "workId": "w_gotg_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_gotg_ordre_00002",
+          "type": "work",
+          "workId": "w_gotg_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_gotg_ordre_00003",
+          "type": "season",
+          "workId": "w_i_am_groot",
+          "seasonNumber": 1,
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_gotg_ordre_00004",
+          "type": "work",
+          "workId": "w_avengers_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_gotg_ordre_00005",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_gotg_ordre_00006",
+          "type": "work",
+          "workId": "w_gotg_holiday",
+          "uncertain": false
+        },
+        {
+          "id": "s_perso_gotg_ordre_00007",
+          "type": "work",
+          "workId": "w_gotg_3",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_fantastic_four_ordre_sortie",
+      "collectionId": "c_fantastic_four_univers",
+      "name": "Les 4 Fantastiques — ordre de sortie",
+      "kind": "release",
+      "description": "Univers redémarrés à plusieurs reprises. Visionnage indépendant entre 2005–07, 2015 et 2025.",
+      "steps": [
+        {
+          "id": "s_fantastic_four_ordre_sortie_00001",
+          "type": "work",
+          "workId": "w_fantastic_four_2005",
+          "uncertain": false
+        },
+        {
+          "id": "s_fantastic_four_ordre_sortie_00002",
+          "type": "work",
+          "workId": "w_fantastic_four_silver_surfer",
+          "uncertain": false
+        },
+        {
+          "id": "s_fantastic_four_ordre_sortie_00003",
+          "type": "work",
+          "workId": "w_fantastic_four_2015",
+          "uncertain": false
+        },
+        {
+          "id": "s_fantastic_four_ordre_sortie_00004",
+          "type": "work",
+          "workId": "w_fantastic_four_first_steps",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_four_animation_sortie",
+      "collectionId": "c_marvel_four_animation",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_four_animation_00001",
+          "type": "work",
+          "workId": "w_marvel_fantastic_four_1967",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_four_animation_00002",
+          "type": "work",
+          "workId": "w_marvel_new_fantastic_four_1978",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_four_animation_00003",
+          "type": "work",
+          "workId": "w_marvel_fantastic_four_1994_anim",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_four_animation_00004",
+          "type": "work",
+          "workId": "w_marvel_fantastic_four_greatest_heroes",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_xmen_ordre_sortie",
+      "collectionId": "c_xmen_fox",
+      "name": "X-Men Fox — ordre de sortie conseillé",
+      "kind": "release",
+      "description": "Suivre l’ordre de sortie évite les contradictions des voyages temporels. Deadpool & Wolverine clôt ce parcours en 2024.",
+      "steps": [
+        {
+          "id": "s_xmen_ordre_sortie_00001",
+          "type": "work",
+          "workId": "w_xmen_2000",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00002",
+          "type": "work",
+          "workId": "w_xmen_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00003",
+          "type": "work",
+          "workId": "w_xmen_last_stand",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00004",
+          "type": "work",
+          "workId": "w_xmen_origins_wolverine",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00005",
+          "type": "work",
+          "workId": "w_xmen_first_class",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00006",
+          "type": "work",
+          "workId": "w_wolverine_immortal",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00007",
+          "type": "work",
+          "workId": "w_xmen_days_future_past",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00008",
+          "type": "work",
+          "workId": "w_deadpool_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00009",
+          "type": "work",
+          "workId": "w_xmen_apocalypse",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00010",
+          "type": "work",
+          "workId": "w_logan",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00011",
+          "type": "work",
+          "workId": "w_deadpool_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00012",
+          "type": "work",
+          "workId": "w_xmen_dark_phoenix",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00013",
+          "type": "work",
+          "workId": "w_new_mutants",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_ordre_sortie_00014",
+          "type": "work",
+          "workId": "w_deadpool_wolverine",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_xmen_chronologie_fan",
+      "collectionId": "c_xmen_fox",
+      "name": "X-Men — chronologie narrative indicative",
+      "kind": "custom",
+      "description": "Ordre indicatif, non canonique unique : Days of Future Past crée plusieurs chronologies contradictoires. Préférer l’ordre de sortie.",
+      "steps": [
+        {
+          "id": "s_xmen_chronologie_fan_00001",
+          "type": "work",
+          "workId": "w_xmen_first_class",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00002",
+          "type": "work",
+          "workId": "w_xmen_days_future_past",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00003",
+          "type": "work",
+          "workId": "w_xmen_origins_wolverine",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00004",
+          "type": "work",
+          "workId": "w_xmen_apocalypse",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00005",
+          "type": "work",
+          "workId": "w_xmen_dark_phoenix",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00006",
+          "type": "work",
+          "workId": "w_xmen_2000",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00007",
+          "type": "work",
+          "workId": "w_xmen_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00008",
+          "type": "work",
+          "workId": "w_xmen_last_stand",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00009",
+          "type": "work",
+          "workId": "w_wolverine_immortal",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00010",
+          "type": "work",
+          "workId": "w_deadpool_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00011",
+          "type": "work",
+          "workId": "w_deadpool_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00012",
+          "type": "work",
+          "workId": "w_new_mutants",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00013",
+          "type": "work",
+          "workId": "w_logan",
+          "uncertain": false
+        },
+        {
+          "id": "s_xmen_chronologie_fan_00014",
+          "type": "work",
+          "workId": "w_deadpool_wolverine",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T11:30:00.000Z"
+    },
+    {
+      "id": "p_mcu_bonus_sorties",
+      "collectionId": "c_mcu_courts",
+      "name": "Courts-métrages et spéciaux — ordre de sortie",
+      "kind": "release",
+      "description": "Extras et courts classés par année de sortie. Team Thor / Team Darryl : faux documentaires hors continuité stricte.",
+      "steps": [
+        {
+          "id": "s_mcu_bonus_sorties_00001",
+          "type": "work",
+          "workId": "w_one_consultant",
+          "uncertain": false
+        },
+        {
+          "id": "s_mcu_bonus_sorties_00002",
+          "type": "work",
+          "workId": "w_one_thor_hammer",
+          "uncertain": false
+        },
+        {
+          "id": "s_mcu_bonus_sorties_00003",
+          "type": "work",
+          "workId": "w_one_item47",
+          "uncertain": false
+        },
+        {
+          "id": "s_mcu_bonus_sorties_00004",
+          "type": "work",
+          "workId": "w_one_agent_carter",
+          "uncertain": false
+        },
+        {
+          "id": "s_mcu_bonus_sorties_00007",
+          "type": "work",
+          "workId": "w_werewolf_by_night",
+          "uncertain": false
+        },
+        {
+          "id": "s_mcu_bonus_sorties_00008",
+          "type": "work",
+          "workId": "w_gotg_holiday",
+          "uncertain": false
+        },
+        {
+          "id": "s_mcu_bonus_sorties_00009",
+          "type": "work",
+          "workId": "w_punisher_last_kill",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T14:30:47.767Z"
+    },
+    {
+      "id": "p_marvel_marvel_television_historique_sortie",
+      "collectionId": "c_marvel_television_historique",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_television_historique_00001",
+          "type": "work",
+          "workId": "w_agents_shield",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_television_historique_00002",
+          "type": "work",
+          "workId": "w_agent_carter",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_television_historique_00003",
+          "type": "work",
+          "workId": "w_whih_newsfront",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_television_historique_00004",
+          "type": "work",
+          "workId": "w_shield_slingshot",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_television_historique_00005",
+          "type": "work",
+          "workId": "w_inhumans",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_television_historique_00006",
+          "type": "work",
+          "workId": "w_runaways",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_television_historique_00007",
+          "type": "work",
+          "workId": "w_cloak_dagger",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_defenders_sortie",
+      "collectionId": "c_marvel_defenders",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_defenders_00001",
+          "type": "work",
+          "workId": "w_daredevil",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_defenders_00002",
+          "type": "work",
+          "workId": "w_jessica_jones",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_defenders_00003",
+          "type": "work",
+          "workId": "w_luke_cage",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_defenders_00004",
+          "type": "work",
+          "workId": "w_iron_fist",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_defenders_00005",
+          "type": "work",
+          "workId": "w_defenders",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_defenders_00006",
+          "type": "work",
+          "workId": "w_punisher_series",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_defenders_00007",
+          "type": "work",
+          "workId": "w_daredevil_born_again",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_defenders_00008",
+          "type": "work",
+          "workId": "w_punisher_last_kill",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_urban_mcu_sortie",
+      "collectionId": "c_marvel_urban_mcu",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_urban_mcu_00001",
+          "type": "work",
+          "workId": "w_daredevil",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_urban_mcu_00002",
+          "type": "work",
+          "workId": "w_jessica_jones",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_urban_mcu_00003",
+          "type": "work",
+          "workId": "w_luke_cage",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_urban_mcu_00004",
+          "type": "work",
+          "workId": "w_iron_fist",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_urban_mcu_00005",
+          "type": "work",
+          "workId": "w_defenders",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_urban_mcu_00006",
+          "type": "work",
+          "workId": "w_punisher_series",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_urban_mcu_00007",
+          "type": "work",
+          "workId": "w_hawkeye",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_urban_mcu_00008",
+          "type": "work",
+          "workId": "w_echo",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_urban_mcu_00009",
+          "type": "work",
+          "workId": "w_daredevil_born_again",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_urban_mcu_00010",
+          "type": "work",
+          "workId": "w_punisher_last_kill",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_films_hors_mcu_sortie",
+      "collectionId": "c_marvel_films_hors_mcu",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00001",
+          "type": "work",
+          "workId": "w_howard_duck",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00002",
+          "type": "work",
+          "workId": "w_blade_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00003",
+          "type": "work",
+          "workId": "w_blade_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00004",
+          "type": "work",
+          "workId": "w_daredevil_movie",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00005",
+          "type": "work",
+          "workId": "w_hulk_2003",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00006",
+          "type": "work",
+          "workId": "w_blade_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00007",
+          "type": "work",
+          "workId": "w_punisher_2004",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00008",
+          "type": "work",
+          "workId": "w_elektra",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00009",
+          "type": "work",
+          "workId": "w_man_thing",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00010",
+          "type": "work",
+          "workId": "w_ghost_rider_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00011",
+          "type": "work",
+          "workId": "w_punisher_war_zone",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_hors_mcu_00012",
+          "type": "work",
+          "workId": "w_ghost_rider_2",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_films_anciens_sortie",
+      "collectionId": "c_marvel_films_anciens",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_films_anciens_00001",
+          "type": "work",
+          "workId": "w_marvel_captain_america_serial_1944",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00002",
+          "type": "work",
+          "workId": "w_marvel_spiderman_1977_tvfilm",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00003",
+          "type": "work",
+          "workId": "w_marvel_dr_strange_1978",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00004",
+          "type": "work",
+          "workId": "w_marvel_spiderman_strikes_back",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00005",
+          "type": "work",
+          "workId": "w_marvel_captain_america_1979",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00006",
+          "type": "work",
+          "workId": "w_marvel_captain_america_ii",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00007",
+          "type": "work",
+          "workId": "w_marvel_spiderman_dragon_challenge",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00008",
+          "type": "work",
+          "workId": "w_marvel_return_incredible_hulk",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00009",
+          "type": "work",
+          "workId": "w_marvel_trial_incredible_hulk",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00010",
+          "type": "work",
+          "workId": "w_marvel_punisher_1989",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00011",
+          "type": "work",
+          "workId": "w_marvel_captain_america_1990",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00012",
+          "type": "work",
+          "workId": "w_marvel_death_incredible_hulk",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00013",
+          "type": "work",
+          "workId": "w_marvel_generation_x_1996",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_anciens_00014",
+          "type": "work",
+          "workId": "w_marvel_nick_fury_1998",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_series_hors_mcu_sortie",
+      "collectionId": "c_marvel_series_hors_mcu",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_series_hors_mcu_00001",
+          "type": "work",
+          "workId": "w_marvel_incredible_hulk_1977_tv",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_series_hors_mcu_00002",
+          "type": "work",
+          "workId": "w_marvel_amazing_spider_man_1977",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_series_hors_mcu_00003",
+          "type": "work",
+          "workId": "w_marvel_spiderman_japanese_1978",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_series_hors_mcu_00004",
+          "type": "work",
+          "workId": "w_marvel_night_man_1997",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_series_hors_mcu_00005",
+          "type": "work",
+          "workId": "w_marvel_mutant_x_2001",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_series_hors_mcu_00006",
+          "type": "work",
+          "workId": "w_marvel_blade_2006_series",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_series_hors_mcu_00007",
+          "type": "work",
+          "workId": "w_alt_legion",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_series_hors_mcu_00008",
+          "type": "work",
+          "workId": "w_alt_gifted",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_series_hors_mcu_00009",
+          "type": "work",
+          "workId": "w_helstrom",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_series_hors_mcu_00010",
+          "type": "work",
+          "workId": "w_spider_noir",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_animation_classique_sortie",
+      "collectionId": "c_marvel_animation_classique",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_animation_classique_00001",
+          "type": "work",
+          "workId": "w_marvel_marvel_super_heroes_1966",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00002",
+          "type": "work",
+          "workId": "w_marvel_fantastic_four_1967",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00003",
+          "type": "work",
+          "workId": "w_marvel_spiderman_1967",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00004",
+          "type": "work",
+          "workId": "w_marvel_new_fantastic_four_1978",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00005",
+          "type": "work",
+          "workId": "w_a_spiderwoman",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00006",
+          "type": "work",
+          "workId": "w_marvel_spiderman_1981",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00007",
+          "type": "work",
+          "workId": "w_a_spiderman_friends_1981",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00008",
+          "type": "work",
+          "workId": "w_marvel_hulk_1982",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00009",
+          "type": "work",
+          "workId": "w_marvel_xmen_1992",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00010",
+          "type": "work",
+          "workId": "w_marvel_ironman_1994",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00011",
+          "type": "work",
+          "workId": "w_marvel_fantastic_four_1994_anim",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00012",
+          "type": "work",
+          "workId": "w_a_spiderman_1994",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00013",
+          "type": "work",
+          "workId": "w_marvel_hulk_1996",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00014",
+          "type": "work",
+          "workId": "w_a_silver_surfer",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00015",
+          "type": "work",
+          "workId": "w_a_avengers_united",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_classique_00016",
+          "type": "work",
+          "workId": "w_a_spiderman_unlimited",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_animation_moderne_sortie",
+      "collectionId": "c_marvel_animation_moderne",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_animation_moderne_00001",
+          "type": "work",
+          "workId": "w_a_xmen_evolution",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00002",
+          "type": "work",
+          "workId": "w_a_spiderman_new_animated",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00003",
+          "type": "work",
+          "workId": "w_marvel_fantastic_four_greatest_heroes",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00004",
+          "type": "work",
+          "workId": "w_a_spectacular_spiderman",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00005",
+          "type": "work",
+          "workId": "w_a_iron_man_armored",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00006",
+          "type": "work",
+          "workId": "w_a_super_hero_squad",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00007",
+          "type": "work",
+          "workId": "w_a_wolverine_xmen",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00008",
+          "type": "work",
+          "workId": "w_a_avengers_emh",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00009",
+          "type": "work",
+          "workId": "w_a_ultimate_spiderman",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00010",
+          "type": "work",
+          "workId": "w_a_avengers_assemble",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00011",
+          "type": "work",
+          "workId": "w_a_hulk_smash",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00012",
+          "type": "work",
+          "workId": "w_marvel_guardians_galaxy_2015",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00013",
+          "type": "work",
+          "workId": "w_marvel_antman_shorts",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00014",
+          "type": "work",
+          "workId": "w_marvel_super_hero_adventures",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00015",
+          "type": "work",
+          "workId": "w_marvel_rocket_groot_shorts",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00016",
+          "type": "work",
+          "workId": "w_marvel_spiderman_2017",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00017",
+          "type": "work",
+          "workId": "w_marvel_marvel_battleworld",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00018",
+          "type": "work",
+          "workId": "w_marvel_modok_2021",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00019",
+          "type": "work",
+          "workId": "w_alt_hit_monkey",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00020",
+          "type": "work",
+          "workId": "w_alt_spidey_friends",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00021",
+          "type": "work",
+          "workId": "w_alt_moon_girl",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00022",
+          "type": "work",
+          "workId": "w_marvel_ironman_friends_2025",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00023",
+          "type": "work",
+          "workId": "w_marvel_spidey_teamup_2025",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00024",
+          "type": "work",
+          "workId": "w_marvel_spidey_teamup_halloween_2026",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_moderne_00025",
+          "type": "work",
+          "workId": "w_marvel_avengers_mightiest_friends",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_anime_japon_sortie",
+      "collectionId": "c_marvel_anime_japon",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_anime_japon_00001",
+          "type": "work",
+          "workId": "w_a_marvel_anime_ironman",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_anime_japon_00002",
+          "type": "work",
+          "workId": "w_a_marvel_anime_wolverine",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_anime_japon_00003",
+          "type": "work",
+          "workId": "w_a_marvel_anime_xmen",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_anime_japon_00004",
+          "type": "work",
+          "workId": "w_a_marvel_diskwars",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_anime_japon_00005",
+          "type": "work",
+          "workId": "w_a_marvel_future_avengers",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_animation_studios_sortie",
+      "collectionId": "c_marvel_animation_studios",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_animation_studios_00001",
+          "type": "work",
+          "workId": "w_what_if",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_studios_00002",
+          "type": "work",
+          "workId": "w_i_am_groot",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_studios_00003",
+          "type": "work",
+          "workId": "w_a_xmen_97",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_studios_00004",
+          "type": "work",
+          "workId": "w_eyes_wakanda",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_studios_00005",
+          "type": "work",
+          "workId": "w_marvel_zombies",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_animation_studios_00006",
+          "type": "work",
+          "workId": "w_a_friendly_spiderman",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_xmen_animation_sortie",
+      "collectionId": "c_marvel_xmen_animation",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_xmen_animation_00001",
+          "type": "work",
+          "workId": "w_marvel_xmen_1992",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_xmen_animation_00002",
+          "type": "work",
+          "workId": "w_a_xmen_evolution",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_xmen_animation_00003",
+          "type": "work",
+          "workId": "w_a_wolverine_xmen",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_xmen_animation_00004",
+          "type": "work",
+          "workId": "w_a_marvel_anime_wolverine",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_xmen_animation_00005",
+          "type": "work",
+          "workId": "w_a_marvel_anime_xmen",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_xmen_animation_00006",
+          "type": "work",
+          "workId": "w_a_xmen_97",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_films_animation_sortie",
+      "collectionId": "c_marvel_films_animation",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_films_animation_00001",
+          "type": "work",
+          "workId": "w_marvel_ultimate_avengers_2006",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00002",
+          "type": "work",
+          "workId": "w_marvel_ultimate_avengers_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00003",
+          "type": "work",
+          "workId": "w_marvel_doctor_strange_sorcerer",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00004",
+          "type": "work",
+          "workId": "w_marvel_invincible_iron_man_2007",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00005",
+          "type": "work",
+          "workId": "w_marvel_next_avengers_2008",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00006",
+          "type": "work",
+          "workId": "w_marvel_hulk_vs_2009",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00007",
+          "type": "work",
+          "workId": "w_marvel_planet_hulk_2010",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00008",
+          "type": "work",
+          "workId": "w_marvel_thor_tales_asgard",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00009",
+          "type": "work",
+          "workId": "w_marvel_iron_man_technovore",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00010",
+          "type": "work",
+          "workId": "w_marvel_iron_man_hulk_united",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00011",
+          "type": "work",
+          "workId": "w_marvel_avengers_confidential",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00012",
+          "type": "work",
+          "workId": "w_marvel_iron_man_cap_heroes_united",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00013",
+          "type": "work",
+          "workId": "w_marvel_frost_fight_2015",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00014",
+          "type": "work",
+          "workId": "w_marvel_hulk_monsters_dwell",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00015",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_secret_warriors",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00016",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_battle_bands",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00017",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_chasing_ghosts",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00018",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_heart_iron",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00019",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_operation_shuri",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_films_animation_00020",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_playing_fire",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_rising_sortie",
+      "collectionId": "c_marvel_rising",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_rising_00001",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_secret_warriors",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_rising_00002",
+          "type": "work",
+          "workId": "w_a_marvel_rising_initiation",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_rising_00003",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_battle_bands",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_rising_00004",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_chasing_ghosts",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_rising_00005",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_heart_iron",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_rising_00006",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_operation_shuri",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_rising_00007",
+          "type": "work",
+          "workId": "w_marvel_marvel_rising_playing_fire",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_lego_sortie",
+      "collectionId": "c_marvel_lego",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_lego_00001",
+          "type": "work",
+          "workId": "w_marvel_lego_maximum_overload",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_lego_00002",
+          "type": "work",
+          "workId": "w_marvel_lego_avengers_reassembled",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_lego_00003",
+          "type": "work",
+          "workId": "w_marvel_lego_gotg_thanos_threat",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_lego_00004",
+          "type": "work",
+          "workId": "w_marvel_lego_black_panther_wakanda",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_lego_00005",
+          "type": "work",
+          "workId": "w_marvel_lego_avengers_climate",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_lego_00006",
+          "type": "work",
+          "workId": "w_marvel_lego_avengers_code_red",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_lego_00007",
+          "type": "work",
+          "workId": "w_marvel_lego_avengers_demolition",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_lego_00008",
+          "type": "work",
+          "workId": "w_marvel_lego_avengers_strange_tails",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_big_hero_6_sortie",
+      "collectionId": "c_marvel_big_hero_6",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_big_hero_6_00001",
+          "type": "work",
+          "workId": "w_alt_big_hero_six",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_big_hero_6_00002",
+          "type": "work",
+          "workId": "w_alt_big_hero_six_series",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_big_hero_6_00003",
+          "type": "work",
+          "workId": "w_alt_baymax",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_motion_comics_sortie",
+      "collectionId": "c_marvel_motion_comics",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_motion_comics_00001",
+          "type": "work",
+          "workId": "w_marvel_astonishing_xmen_gifted",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00002",
+          "type": "work",
+          "workId": "w_marvel_black_panther_2010_mcomic",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00003",
+          "type": "work",
+          "workId": "w_marvel_ironman_extremis",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00004",
+          "type": "work",
+          "workId": "w_marvel_spiderwoman_agent_sword",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00005",
+          "type": "work",
+          "workId": "w_marvel_thor_loki_blood_brothers",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00006",
+          "type": "work",
+          "workId": "w_marvel_astonishing_xmen_dangerous",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00007",
+          "type": "work",
+          "workId": "w_marvel_astonishing_xmen_torn",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00008",
+          "type": "work",
+          "workId": "w_marvel_astonishing_xmen_unstoppable",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00009",
+          "type": "work",
+          "workId": "w_marvel_inhumans_motion_2013",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00010",
+          "type": "work",
+          "workId": "w_marvel_ultimate_wolverine_hulk",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00011",
+          "type": "work",
+          "workId": "w_marvel_wolverine_origin_motion",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00012",
+          "type": "work",
+          "workId": "w_marvel_eternals_motion_2014",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00013",
+          "type": "work",
+          "workId": "w_marvel_wolverine_weapon_x_2014",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00014",
+          "type": "work",
+          "workId": "w_marvel_wolverine_sabretooth_2014",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_motion_comics_00015",
+          "type": "work",
+          "workId": "w_marvel_wolverine_sabretooth_reborn",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_documentaires_sortie",
+      "collectionId": "c_marvel_documentaires",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_documentaires_00001",
+          "type": "work",
+          "workId": "w_marvel_marvel_75_years",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_documentaires_00002",
+          "type": "work",
+          "workId": "w_marvel_marvel_studios_assembling_universe",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_documentaires_00003",
+          "type": "work",
+          "workId": "w_marvel_marvel_hero_project",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_documentaires_00004",
+          "type": "work",
+          "workId": "w_marvel_marvel_616",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_documentaires_00005",
+          "type": "work",
+          "workId": "w_marvel_marvel_studios_legends",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_documentaires_00006",
+          "type": "work",
+          "workId": "w_marvel_marvel_studios_assembled",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_oeuvres_non_sorties_sortie",
+      "collectionId": "c_marvel_oeuvres_non_sorties",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_oeuvres_non_sorties_00001",
+          "type": "work",
+          "workId": "w_marvel_fantastic_four_1994_unreleased",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_hulk_sortie",
+      "collectionId": "c_marvel_hulk",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_hulk_00001",
+          "type": "work",
+          "workId": "w_marvel_incredible_hulk_1977_tv",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00002",
+          "type": "work",
+          "workId": "w_marvel_return_incredible_hulk",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00003",
+          "type": "work",
+          "workId": "w_marvel_trial_incredible_hulk",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00004",
+          "type": "work",
+          "workId": "w_marvel_death_incredible_hulk",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00005",
+          "type": "work",
+          "workId": "w_hulk_2003",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00006",
+          "type": "work",
+          "workId": "w_hulk_mcu",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00007",
+          "type": "work",
+          "workId": "w_marvel_planet_hulk_2010",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00008",
+          "type": "work",
+          "workId": "w_avengers_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00009",
+          "type": "work",
+          "workId": "w_a_hulk_smash",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00010",
+          "type": "work",
+          "workId": "w_avengers_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00011",
+          "type": "work",
+          "workId": "w_thor_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00012",
+          "type": "work",
+          "workId": "w_avengers_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00013",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hulk_00014",
+          "type": "work",
+          "workId": "w_she_hulk",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_wolverine_sortie",
+      "collectionId": "c_marvel_wolverine",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_wolverine_00001",
+          "type": "work",
+          "workId": "w_xmen_2000",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_wolverine_00002",
+          "type": "work",
+          "workId": "w_xmen_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_wolverine_00003",
+          "type": "work",
+          "workId": "w_xmen_last_stand",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_wolverine_00004",
+          "type": "work",
+          "workId": "w_a_wolverine_xmen",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_wolverine_00005",
+          "type": "work",
+          "workId": "w_xmen_origins_wolverine",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_wolverine_00006",
+          "type": "work",
+          "workId": "w_a_marvel_anime_wolverine",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_wolverine_00007",
+          "type": "work",
+          "workId": "w_wolverine_immortal",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_wolverine_00008",
+          "type": "work",
+          "workId": "w_xmen_days_future_past",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_wolverine_00009",
+          "type": "work",
+          "workId": "w_xmen_apocalypse",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_wolverine_00010",
+          "type": "work",
+          "workId": "w_logan",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_wolverine_00011",
+          "type": "work",
+          "workId": "w_deadpool_wolverine",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_blade_sortie",
+      "collectionId": "c_marvel_blade",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_blade_00001",
+          "type": "work",
+          "workId": "w_blade_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_blade_00002",
+          "type": "work",
+          "workId": "w_blade_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_blade_00003",
+          "type": "work",
+          "workId": "w_blade_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_blade_00004",
+          "type": "work",
+          "workId": "w_marvel_blade_2006_series",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_blade_00005",
+          "type": "work",
+          "workId": "w_marvel_anime_blade_2011",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_punisher_sortie",
+      "collectionId": "c_marvel_punisher",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_punisher_00001",
+          "type": "work",
+          "workId": "w_marvel_punisher_1989",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_punisher_00002",
+          "type": "work",
+          "workId": "w_punisher_2004",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_punisher_00003",
+          "type": "work",
+          "workId": "w_punisher_war_zone",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_punisher_00004",
+          "type": "work",
+          "workId": "w_daredevil",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_punisher_00005",
+          "type": "work",
+          "workId": "w_punisher_series",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_punisher_00006",
+          "type": "work",
+          "workId": "w_daredevil_born_again",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_punisher_00007",
+          "type": "work",
+          "workId": "w_punisher_last_kill",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_daredevil_sortie",
+      "collectionId": "c_marvel_daredevil",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_daredevil_00001",
+          "type": "work",
+          "workId": "w_daredevil_movie",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_daredevil_00002",
+          "type": "work",
+          "workId": "w_elektra",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_daredevil_00003",
+          "type": "work",
+          "workId": "w_daredevil",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_daredevil_00004",
+          "type": "work",
+          "workId": "w_defenders",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_daredevil_00005",
+          "type": "work",
+          "workId": "w_daredevil_born_again",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_daredevil_00006",
+          "type": "work",
+          "workId": "w_punisher_last_kill",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_loki_sortie",
+      "collectionId": "c_marvel_loki",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_loki_00001",
+          "type": "work",
+          "workId": "w_thor",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_loki_00002",
+          "type": "work",
+          "workId": "w_avengers_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_loki_00003",
+          "type": "work",
+          "workId": "w_thor_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_loki_00004",
+          "type": "work",
+          "workId": "w_thor_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_loki_00005",
+          "type": "work",
+          "workId": "w_avengers_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_loki_00006",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_loki_00007",
+          "type": "work",
+          "workId": "w_loki",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_captain_marvel_sortie",
+      "collectionId": "c_marvel_captain_marvel",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_captain_marvel_00001",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_captain_marvel_00002",
+          "type": "work",
+          "workId": "w_captain_marvel",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_captain_marvel_00003",
+          "type": "work",
+          "workId": "w_wandavision",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_captain_marvel_00004",
+          "type": "work",
+          "workId": "w_ms_marvel",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_captain_marvel_00005",
+          "type": "work",
+          "workId": "w_the_marvels",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_black_widow_sortie",
+      "collectionId": "c_marvel_black_widow",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_black_widow_00001",
+          "type": "work",
+          "workId": "w_iron_man_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_black_widow_00002",
+          "type": "work",
+          "workId": "w_avengers_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_black_widow_00003",
+          "type": "work",
+          "workId": "w_captain_america_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_black_widow_00004",
+          "type": "work",
+          "workId": "w_avengers_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_black_widow_00005",
+          "type": "work",
+          "workId": "w_captain_america_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_black_widow_00006",
+          "type": "work",
+          "workId": "w_avengers_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_black_widow_00007",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_black_widow_00008",
+          "type": "work",
+          "workId": "w_black_widow",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_black_widow_00009",
+          "type": "work",
+          "workId": "w_thunderbolts",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_hawkeye_sortie",
+      "collectionId": "c_marvel_hawkeye",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_hawkeye_00001",
+          "type": "work",
+          "workId": "w_thor",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hawkeye_00002",
+          "type": "work",
+          "workId": "w_avengers_1",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hawkeye_00003",
+          "type": "work",
+          "workId": "w_avengers_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hawkeye_00004",
+          "type": "work",
+          "workId": "w_captain_america_3",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hawkeye_00005",
+          "type": "work",
+          "workId": "w_avengers_4",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_hawkeye_00006",
+          "type": "work",
+          "workId": "w_hawkeye",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_marvel_marvel_mystic_sortie",
+      "collectionId": "c_marvel_mystic",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie éditorial, une fiche par œuvre; les saisons restent sur la même fiche.",
+      "steps": [
+        {
+          "id": "s_marvel_marvel_mystic_00001",
+          "type": "work",
+          "workId": "w_doctor_strange",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_mystic_00002",
+          "type": "work",
+          "workId": "w_wandavision",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_mystic_00003",
+          "type": "work",
+          "workId": "w_doctor_strange_2",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_mystic_00004",
+          "type": "work",
+          "workId": "w_werewolf_by_night",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_mystic_00005",
+          "type": "work",
+          "workId": "w_moon_knight",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_mystic_00006",
+          "type": "work",
+          "workId": "w_agatha",
+          "uncertain": false
+        },
+        {
+          "id": "s_marvel_marvel_mystic_00007",
+          "type": "work",
+          "workId": "w_visionquest",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:41:00.000Z"
+    },
+    {
+      "id": "p_disney--classiques-sortie",
+      "collectionId": "disney--classiques",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Les Grands Classiques dans l’ordre officiel de leur sortie.",
+      "steps": [
+        {
+          "id": "s_disney--classiques-1",
+          "type": "work",
+          "workId": "w_movie408",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-2",
+          "type": "work",
+          "workId": "w_movie10895",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-3",
+          "type": "work",
+          "workId": "w_movie756",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-4",
+          "type": "work",
+          "workId": "w_movie11360",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-5",
+          "type": "work",
+          "workId": "w_movie3170",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-6",
+          "type": "work",
+          "workId": "w_movie14906",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-7",
+          "type": "work",
+          "workId": "w_movie15947",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-8",
+          "type": "work",
+          "workId": "w_movie20343",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-9",
+          "type": "work",
+          "workId": "w_movie46929",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-10",
+          "type": "work",
+          "workId": "w_movie13757",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-11",
+          "type": "work",
+          "workId": "w_movie13465",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-12",
+          "type": "work",
+          "workId": "w_movie11224",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-13",
+          "type": "work",
+          "workId": "w_movie12092",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-14",
+          "type": "work",
+          "workId": "w_movie10693",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-15",
+          "type": "work",
+          "workId": "w_movie10340",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-16",
+          "type": "work",
+          "workId": "w_movie10882",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-17",
+          "type": "work",
+          "workId": "w_movie12230",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-18",
+          "type": "work",
+          "workId": "w_movie9078",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-19",
+          "type": "work",
+          "workId": "w_movie9325",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-20",
+          "type": "work",
+          "workId": "w_movie10112",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-21",
+          "type": "work",
+          "workId": "w_movie11886",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-22",
+          "type": "work",
+          "workId": "w_movie250480",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-23",
+          "type": "work",
+          "workId": "w_movie11319",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-24",
+          "type": "work",
+          "workId": "w_movie10948",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-25",
+          "type": "work",
+          "workId": "w_movie10957",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-26",
+          "type": "work",
+          "workId": "w_movie9994",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-27",
+          "type": "work",
+          "workId": "w_movie12233",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-28",
+          "type": "work",
+          "workId": "w_movie10144",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-29",
+          "type": "work",
+          "workId": "w_movie11135",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-30",
+          "type": "work",
+          "workId": "w_movie10020",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-31",
+          "type": "work",
+          "workId": "w_movie812",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-32",
+          "type": "work",
+          "workId": "w_movie8587",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-33",
+          "type": "work",
+          "workId": "w_movie10530",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-34",
+          "type": "work",
+          "workId": "w_movie10545",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-35",
+          "type": "work",
+          "workId": "w_movie11970",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-36",
+          "type": "work",
+          "workId": "w_movie10674",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-37",
+          "type": "work",
+          "workId": "w_movie37135",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-38",
+          "type": "work",
+          "workId": "w_movie49948",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-39",
+          "type": "work",
+          "workId": "w_movie10567",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-40",
+          "type": "work",
+          "workId": "w_movie11688",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-41",
+          "type": "work",
+          "workId": "w_movie10865",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-42",
+          "type": "work",
+          "workId": "w_movie11544",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-43",
+          "type": "work",
+          "workId": "w_movie9016",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-44",
+          "type": "work",
+          "workId": "w_movie10009",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-45",
+          "type": "work",
+          "workId": "w_movie13700",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-46",
+          "type": "work",
+          "workId": "w_movie9982",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-47",
+          "type": "work",
+          "workId": "w_movie1267",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-48",
+          "type": "work",
+          "workId": "w_movie13053",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-49",
+          "type": "work",
+          "workId": "w_movie10198",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-50",
+          "type": "work",
+          "workId": "w_movie38757",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-51",
+          "type": "work",
+          "workId": "w_movie51162",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-52",
+          "type": "work",
+          "workId": "w_movie82690",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-53",
+          "type": "work",
+          "workId": "w_movie109445",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-54",
+          "type": "work",
+          "workId": "w_alt_big_hero_six",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-55",
+          "type": "work",
+          "workId": "w_movie269149",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-56",
+          "type": "work",
+          "workId": "w_movie277834",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-57",
+          "type": "work",
+          "workId": "w_movie404368",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-58",
+          "type": "work",
+          "workId": "w_movie330457",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-59",
+          "type": "work",
+          "workId": "w_movie527774",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-60",
+          "type": "work",
+          "workId": "w_movie568124",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-61",
+          "type": "work",
+          "workId": "w_movie877269",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-62",
+          "type": "work",
+          "workId": "w_movie1022796",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-63",
+          "type": "work",
+          "workId": "w_movie1241982",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--classiques-64",
+          "type": "work",
+          "workId": "w_movie1084242",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:40:07.000Z"
+    },
+    {
+      "id": "p_disney--pixar-sortie",
+      "collectionId": "disney--pixar",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Les longs métrages Pixar dans l’ordre de leur sortie.",
+      "steps": [
+        {
+          "id": "s_disney--pixar-1",
+          "type": "work",
+          "workId": "w_movie862",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-2",
+          "type": "work",
+          "workId": "w_movie9487",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-3",
+          "type": "work",
+          "workId": "w_movie863",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-4",
+          "type": "work",
+          "workId": "w_movie585",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-5",
+          "type": "work",
+          "workId": "w_movie12",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-6",
+          "type": "work",
+          "workId": "w_movie9806",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-7",
+          "type": "work",
+          "workId": "w_movie920",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-8",
+          "type": "work",
+          "workId": "w_movie2062",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-9",
+          "type": "work",
+          "workId": "w_movie10681",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-10",
+          "type": "work",
+          "workId": "w_movie14160",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-11",
+          "type": "work",
+          "workId": "w_movie10193",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-12",
+          "type": "work",
+          "workId": "w_movie49013",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-13",
+          "type": "work",
+          "workId": "w_movie62177",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-14",
+          "type": "work",
+          "workId": "w_movie62211",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-15",
+          "type": "work",
+          "workId": "w_movie150540",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-16",
+          "type": "work",
+          "workId": "w_movie105864",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-17",
+          "type": "work",
+          "workId": "w_movie127380",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-18",
+          "type": "work",
+          "workId": "w_movie260514",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-19",
+          "type": "work",
+          "workId": "w_movie354912",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-20",
+          "type": "work",
+          "workId": "w_movie260513",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-21",
+          "type": "work",
+          "workId": "w_movie301528",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-22",
+          "type": "work",
+          "workId": "w_movie508439",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-23",
+          "type": "work",
+          "workId": "w_movie508442",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-24",
+          "type": "work",
+          "workId": "w_movie508943",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-25",
+          "type": "work",
+          "workId": "w_movie508947",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-26",
+          "type": "work",
+          "workId": "w_movie718789",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-27",
+          "type": "work",
+          "workId": "w_movie976573",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-28",
+          "type": "work",
+          "workId": "w_movie1022789",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-29",
+          "type": "work",
+          "workId": "w_movie1022787",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-30",
+          "type": "work",
+          "workId": "w_movie1327819",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--pixar-31",
+          "type": "work",
+          "workId": "w_movie1084244",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:40:07.000Z"
+    },
+    {
+      "id": "p_disney--prises-de-vues-reelles-sortie",
+      "collectionId": "disney--prises-de-vues-reelles",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Les remakes dans l’ordre de leur sortie.",
+      "steps": [
+        {
+          "id": "s_disney--prises-de-vues-reelles-1",
+          "type": "work",
+          "workId": "w_movie10714",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-2",
+          "type": "work",
+          "workId": "w_movie11674",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-3",
+          "type": "work",
+          "workId": "w_movie10481",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-4",
+          "type": "work",
+          "workId": "w_movie12155",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-5",
+          "type": "work",
+          "workId": "w_movie102651",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-6",
+          "type": "work",
+          "workId": "w_movie150689",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-7",
+          "type": "work",
+          "workId": "w_movie278927",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-8",
+          "type": "work",
+          "workId": "w_movie294272",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-9",
+          "type": "work",
+          "workId": "w_movie241259",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-10",
+          "type": "work",
+          "workId": "w_movie321612",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-11",
+          "type": "work",
+          "workId": "w_movie420814",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-12",
+          "type": "work",
+          "workId": "w_movie420809",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-13",
+          "type": "work",
+          "workId": "w_movie329996",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-14",
+          "type": "work",
+          "workId": "w_movie420817",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-15",
+          "type": "work",
+          "workId": "w_movie420818",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-16",
+          "type": "work",
+          "workId": "w_movie512895",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-17",
+          "type": "work",
+          "workId": "w_movie337401",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-18",
+          "type": "work",
+          "workId": "w_movie337404",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-19",
+          "type": "work",
+          "workId": "w_movie532639",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-20",
+          "type": "work",
+          "workId": "w_movie420808",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-21",
+          "type": "work",
+          "workId": "w_movie447277",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-22",
+          "type": "work",
+          "workId": "w_movie762509",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-23",
+          "type": "work",
+          "workId": "w_movie447273",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-24",
+          "type": "work",
+          "workId": "w_movie552524",
+          "uncertain": false
+        },
+        {
+          "id": "s_disney--prises-de-vues-reelles-25",
+          "type": "work",
+          "workId": "w_movie1108427",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:40:07.000Z"
+    },
+    {
+      "id": "p_dreamworks--films-sortie",
+      "collectionId": "dreamworks--films",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Les longs métrages DreamWorks dans l’ordre de leur sortie.",
+      "steps": [
+        {
+          "id": "s_dreamworks--films-1",
+          "type": "work",
+          "workId": "w_movie8916",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-2",
+          "type": "work",
+          "workId": "w_movie9837",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-3",
+          "type": "work",
+          "workId": "w_movie10501",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-4",
+          "type": "work",
+          "workId": "w_movie7443",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-5",
+          "type": "work",
+          "workId": "w_movie808",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-6",
+          "type": "work",
+          "workId": "w_movie9023",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-7",
+          "type": "work",
+          "workId": "w_movie14411",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-8",
+          "type": "work",
+          "workId": "w_movie809",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-9",
+          "type": "work",
+          "workId": "w_movie10555",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-10",
+          "type": "work",
+          "workId": "w_movie953",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-11",
+          "type": "work",
+          "workId": "w_movie533",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-12",
+          "type": "work",
+          "workId": "w_movie7518",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-13",
+          "type": "work",
+          "workId": "w_movie11619",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-14",
+          "type": "work",
+          "workId": "w_movie810",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-15",
+          "type": "work",
+          "workId": "w_movie5559",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-16",
+          "type": "work",
+          "workId": "w_movie9502",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-17",
+          "type": "work",
+          "workId": "w_movie10527",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-18",
+          "type": "work",
+          "workId": "w_movie15512",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-19",
+          "type": "work",
+          "workId": "w_movie10191",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-20",
+          "type": "work",
+          "workId": "w_movie10192",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-21",
+          "type": "work",
+          "workId": "w_movie38055",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-22",
+          "type": "work",
+          "workId": "w_movie49444",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-23",
+          "type": "work",
+          "workId": "w_movie417859",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-24",
+          "type": "work",
+          "workId": "w_movie80321",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-25",
+          "type": "work",
+          "workId": "w_movie81188",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-26",
+          "type": "work",
+          "workId": "w_movie49519",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-27",
+          "type": "work",
+          "workId": "w_movie77950",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-28",
+          "type": "work",
+          "workId": "w_movie82703",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-29",
+          "type": "work",
+          "workId": "w_movie82702",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-30",
+          "type": "work",
+          "workId": "w_movie270946",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-31",
+          "type": "work",
+          "workId": "w_movie228161",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-32",
+          "type": "work",
+          "workId": "w_movie140300",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-33",
+          "type": "work",
+          "workId": "w_movie136799",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-34",
+          "type": "work",
+          "workId": "w_movie295693",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-35",
+          "type": "work",
+          "workId": "w_movie268531",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-36",
+          "type": "work",
+          "workId": "w_movie166428",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-37",
+          "type": "work",
+          "workId": "w_movie431580",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-38",
+          "type": "work",
+          "workId": "w_movie446893",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-39",
+          "type": "work",
+          "workId": "w_movie529203",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-40",
+          "type": "work",
+          "workId": "w_movie637693",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-41",
+          "type": "work",
+          "workId": "w_movie459151",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-42",
+          "type": "work",
+          "workId": "w_movie629542",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-43",
+          "type": "work",
+          "workId": "w_movie315162",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-44",
+          "type": "work",
+          "workId": "w_movie1040148",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-45",
+          "type": "work",
+          "workId": "w_movie901362",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-46",
+          "type": "work",
+          "workId": "w_movie1011985",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-47",
+          "type": "work",
+          "workId": "w_movie1184918",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-48",
+          "type": "work",
+          "workId": "w_movie774370",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-49",
+          "type": "work",
+          "workId": "w_movie1175942",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-50",
+          "type": "work",
+          "workId": "w_movie1280282",
+          "uncertain": false
+        },
+        {
+          "id": "s_dreamworks--films-51",
+          "type": "work",
+          "workId": "w_movie1465063",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:49:26.000Z"
+    },
+    {
+      "id": "p_dragon-ball-sortie",
+      "collectionId": "dragon-ball",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Toutes les œuvres de l’univers dans l’ordre de leur première sortie au Japon.",
+      "steps": [
+        {
+          "id": "s_dragon-ball-1",
+          "type": "work",
+          "workId": "w_tv12609",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-2",
+          "type": "work",
+          "workId": "w_movie39144",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-3",
+          "type": "work",
+          "workId": "w_movie39145",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-4",
+          "type": "work",
+          "workId": "w_movie116776",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-5",
+          "type": "work",
+          "workId": "w_tv12971",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-6",
+          "type": "work",
+          "workId": "w_movie28609",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-7",
+          "type": "work",
+          "workId": "w_movie39100",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-8",
+          "type": "work",
+          "workId": "w_movie39101",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-9",
+          "type": "work",
+          "workId": "w_movie39323",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-10",
+          "type": "work",
+          "workId": "w_movie39102",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-11",
+          "type": "work",
+          "workId": "w_movie24752",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-12",
+          "type": "work",
+          "workId": "w_movie39103",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-13",
+          "type": "work",
+          "workId": "w_movie39104",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-14",
+          "type": "work",
+          "workId": "w_movie34433",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-15",
+          "type": "work",
+          "workId": "w_movie39105",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-16",
+          "type": "work",
+          "workId": "w_movie39324",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-17",
+          "type": "work",
+          "workId": "w_movie652754",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-18",
+          "type": "work",
+          "workId": "w_movie44251",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-19",
+          "type": "work",
+          "workId": "w_movie39106",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-20",
+          "type": "work",
+          "workId": "w_movie39107",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-21",
+          "type": "work",
+          "workId": "w_movie39108",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-22",
+          "type": "work",
+          "workId": "w_movie39148",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-23",
+          "type": "work",
+          "workId": "w_tv12697",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-24",
+          "type": "work",
+          "workId": "w_movie18095",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-25",
+          "type": "work",
+          "workId": "w_movie38594",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-26",
+          "type": "work",
+          "workId": "w_tv61709",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-28",
+          "type": "work",
+          "workId": "w_movie89636",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-29",
+          "type": "work",
+          "workId": "w_movie120475",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-30",
+          "type": "work",
+          "workId": "w_movie126963",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-31",
+          "type": "work",
+          "workId": "w_movie303857",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-32",
+          "type": "work",
+          "workId": "w_tv62715",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-33",
+          "type": "work",
+          "workId": "w_movie503314",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-34",
+          "type": "work",
+          "workId": "w_tv80020",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-35",
+          "type": "work",
+          "workId": "w_movie610150",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-36",
+          "type": "work",
+          "workId": "w_tv236994",
+          "uncertain": false
+        },
+        {
+          "id": "s_dragon-ball-37",
+          "type": "work",
+          "workId": "w_tv312359",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:32:52.042Z"
+    },
+    {
+      "id": "p_one-piece-sortie",
+      "collectionId": "one-piece",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Toutes les œuvres de l’univers dans l’ordre de leur première sortie au Japon.",
+      "steps": [
+        {
+          "id": "s_one-piece-1",
+          "type": "work",
+          "workId": "w_movie116315",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-2",
+          "type": "work",
+          "workId": "w_tv37854",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-3",
+          "type": "work",
+          "workId": "w_movie19576",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-4",
+          "type": "work",
+          "workId": "w_movie1051942",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-5",
+          "type": "work",
+          "workId": "w_movie23446",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-6",
+          "type": "work",
+          "workId": "w_movie464154",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-7",
+          "type": "work",
+          "workId": "w_movie44725",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-8",
+          "type": "work",
+          "workId": "w_movie464198",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-9",
+          "type": "work",
+          "workId": "w_movie44727",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-10",
+          "type": "work",
+          "workId": "w_movie693356",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-11",
+          "type": "work",
+          "workId": "w_movie364728",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-12",
+          "type": "work",
+          "workId": "w_movie44728",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-13",
+          "type": "work",
+          "workId": "w_movie464305",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-14",
+          "type": "work",
+          "workId": "w_movie44729",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-15",
+          "type": "work",
+          "workId": "w_movie364982",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-16",
+          "type": "work",
+          "workId": "w_movie44730",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-17",
+          "type": "work",
+          "workId": "w_movie25278",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-18",
+          "type": "work",
+          "workId": "w_movie44731",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-19",
+          "type": "work",
+          "workId": "w_movie422807",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-20",
+          "type": "work",
+          "workId": "w_movie41498",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-21",
+          "type": "work",
+          "workId": "w_movie270413",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-22",
+          "type": "work",
+          "workId": "w_movie79082",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-23",
+          "type": "work",
+          "workId": "w_movie462387",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-24",
+          "type": "work",
+          "workId": "w_movie176983",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-25",
+          "type": "work",
+          "workId": "w_movie172329",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-26",
+          "type": "work",
+          "workId": "w_movie687936",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-27",
+          "type": "work",
+          "workId": "w_movie215180",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-28",
+          "type": "work",
+          "workId": "w_movie245538",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-29",
+          "type": "work",
+          "workId": "w_movie290271",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-30",
+          "type": "work",
+          "workId": "w_movie373877",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-31",
+          "type": "work",
+          "workId": "w_movie373879",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-32",
+          "type": "work",
+          "workId": "w_movie374205",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-33",
+          "type": "work",
+          "workId": "w_movie433157",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-34",
+          "type": "work",
+          "workId": "w_movie779813",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-35",
+          "type": "work",
+          "workId": "w_movie541867",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-36",
+          "type": "work",
+          "workId": "w_movie568012",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-37",
+          "type": "work",
+          "workId": "w_movie900667",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-38",
+          "type": "work",
+          "workId": "w_tv111110",
+          "uncertain": false
+        },
+        {
+          "id": "s_one-piece-39",
+          "type": "work",
+          "workId": "w_movie1766262",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:29:10.000Z"
+    },
+    {
+      "id": "p_naruto-boruto-sortie",
+      "collectionId": "naruto-boruto",
+      "name": "Ordre de sortie",
+      "kind": "release",
+      "description": "Toutes les œuvres de l’univers dans l’ordre de leur première sortie au Japon.",
+      "steps": [
+        {
+          "id": "s_naruto-boruto-1",
+          "type": "work",
+          "workId": "w_tv46260",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-2",
+          "type": "work",
+          "workId": "w_movie410685",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-3",
+          "type": "work",
+          "workId": "w_movie16907",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-4",
+          "type": "work",
+          "workId": "w_movie619432",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-5",
+          "type": "work",
+          "workId": "w_movie16910",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-6",
+          "type": "work",
+          "workId": "w_movie18861",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-7",
+          "type": "work",
+          "workId": "w_tv31910",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-8",
+          "type": "work",
+          "workId": "w_movie20982",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-9",
+          "type": "work",
+          "workId": "w_movie17581",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-10",
+          "type": "work",
+          "workId": "w_movie1494805",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-11",
+          "type": "work",
+          "workId": "w_movie36728",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-12",
+          "type": "work",
+          "workId": "w_movie699249",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-13",
+          "type": "work",
+          "workId": "w_movie50723",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-14",
+          "type": "work",
+          "workId": "w_movie609197",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-15",
+          "type": "work",
+          "workId": "w_movie75624",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-16",
+          "type": "work",
+          "workId": "w_movie189349",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-17",
+          "type": "work",
+          "workId": "w_movie118406",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-18",
+          "type": "work",
+          "workId": "w_movie699254",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-19",
+          "type": "work",
+          "workId": "w_tv43168",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-20",
+          "type": "work",
+          "workId": "w_movie317442",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-21",
+          "type": "work",
+          "workId": "w_movie347201",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-22",
+          "type": "work",
+          "workId": "w_movie1017204",
+          "uncertain": false
+        },
+        {
+          "id": "s_naruto-boruto-23",
+          "type": "work",
+          "workId": "w_tv70881",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-17T16:29:10.000Z"
+    },
+    {
+      "id": "wo_conan_univers",
+      "collectionId": "detective-conan",
+      "name": "Tout l’univers animé — ordre de sortie",
+      "kind": "complete",
+      "description": "Toutes les productions animées par date de sortie. Ordre de sortie uniquement : il n’existe pas de chronologie officielle de l’histoire.",
+      "steps": [
+        {
+          "id": "s_wo_conan_univers_0",
+          "type": "work",
+          "workId": "w_tv30983",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_1",
+          "type": "work",
+          "workId": "w_movie21422",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_2",
+          "type": "work",
+          "workId": "w_movie1614544",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_3",
+          "type": "work",
+          "workId": "w_movie21452",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_4",
+          "type": "work",
+          "workId": "w_movie28808",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_5",
+          "type": "work",
+          "workId": "w_movie20677",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_6",
+          "type": "work",
+          "workId": "w_movie32022",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_7",
+          "type": "work",
+          "workId": "w_movie26662",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_8",
+          "type": "work",
+          "workId": "w_movie39202",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_9",
+          "type": "work",
+          "workId": "w_movie39203",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_10",
+          "type": "work",
+          "workId": "w_movie39204",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_11",
+          "type": "work",
+          "workId": "w_movie572707",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_12",
+          "type": "work",
+          "workId": "w_movie39205",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_13",
+          "type": "work",
+          "workId": "w_movie39206",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_14",
+          "type": "work",
+          "workId": "w_movie39207",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_15",
+          "type": "work",
+          "workId": "w_movie28764",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_16",
+          "type": "work",
+          "workId": "w_movie97375",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_17",
+          "type": "work",
+          "workId": "w_tv44578",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_18",
+          "type": "work",
+          "workId": "w_movie77617",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_19",
+          "type": "work",
+          "workId": "w_movie122583",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_20",
+          "type": "work",
+          "workId": "w_movie228805",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_21",
+          "type": "work",
+          "workId": "w_movie239529",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_22",
+          "type": "work",
+          "workId": "w_movie257512",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_23",
+          "type": "work",
+          "workId": "w_tv68573",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_24",
+          "type": "work",
+          "workId": "w_movie546822",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_25",
+          "type": "work",
+          "workId": "w_movie316873",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_26",
+          "type": "work",
+          "workId": "w_movie374856",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_27",
+          "type": "work",
+          "workId": "w_movie573364",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_28",
+          "type": "work",
+          "workId": "w_movie438058",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_29",
+          "type": "work",
+          "workId": "w_movie493006",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_30",
+          "type": "work",
+          "workId": "w_movie566555",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_31",
+          "type": "work",
+          "workId": "w_movie769922",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_32",
+          "type": "work",
+          "workId": "w_movie801293",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_33",
+          "type": "work",
+          "workId": "w_movie662638",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_34",
+          "type": "work",
+          "workId": "w_tv195053",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_35",
+          "type": "work",
+          "workId": "w_movie903939",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_36",
+          "type": "work",
+          "workId": "w_movie963806",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_37",
+          "type": "work",
+          "workId": "w_tv195923",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_38",
+          "type": "work",
+          "workId": "w_movie1058906",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_39",
+          "type": "work",
+          "workId": "w_movie1047041",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_40",
+          "type": "work",
+          "workId": "w_movie1244064",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_41",
+          "type": "work",
+          "workId": "w_movie1209217",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_42",
+          "type": "work",
+          "workId": "w_movie1449266",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_43",
+          "type": "work",
+          "workId": "w_movie1396965",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_univers_44",
+          "type": "work",
+          "workId": "w_movie1545621",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-18T10:18:04.000Z"
+    },
+    {
+      "id": "wo_conan_decouverte",
+      "collectionId": "detective-conan",
+      "name": "Parcours conseillé pour découvrir",
+      "kind": "custom",
+      "description": "Parcours éditorial (pas une chronologie officielle) : l’Épisode Un raconte l’origine de l’histoire, puis la série, puis les films dans l’ordre de sortie.",
+      "steps": [
+        {
+          "id": "s_wo_conan_decouverte_0",
+          "type": "work",
+          "workId": "w_movie573364",
+          "note": "Point de départ : comment Shinichi Kudo devient Conan.",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_1",
+          "type": "work",
+          "workId": "w_tv30983",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_2",
+          "type": "work",
+          "workId": "w_movie21422",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_3",
+          "type": "work",
+          "workId": "w_movie21452",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_4",
+          "type": "work",
+          "workId": "w_movie28808",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_5",
+          "type": "work",
+          "workId": "w_movie20677",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_6",
+          "type": "work",
+          "workId": "w_movie32022",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_7",
+          "type": "work",
+          "workId": "w_movie26662",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_8",
+          "type": "work",
+          "workId": "w_movie39202",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_9",
+          "type": "work",
+          "workId": "w_movie39203",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_10",
+          "type": "work",
+          "workId": "w_movie39204",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_11",
+          "type": "work",
+          "workId": "w_movie39205",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_12",
+          "type": "work",
+          "workId": "w_movie39206",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_13",
+          "type": "work",
+          "workId": "w_movie39207",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_14",
+          "type": "work",
+          "workId": "w_movie28764",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_15",
+          "type": "work",
+          "workId": "w_movie97375",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_16",
+          "type": "work",
+          "workId": "w_movie77617",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_17",
+          "type": "work",
+          "workId": "w_movie122583",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_18",
+          "type": "work",
+          "workId": "w_movie228805",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_19",
+          "type": "work",
+          "workId": "w_movie257512",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_20",
+          "type": "work",
+          "workId": "w_movie316873",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_21",
+          "type": "work",
+          "workId": "w_movie374856",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_22",
+          "type": "work",
+          "workId": "w_movie438058",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_23",
+          "type": "work",
+          "workId": "w_movie493006",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_24",
+          "type": "work",
+          "workId": "w_movie566555",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_25",
+          "type": "work",
+          "workId": "w_movie662638",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_26",
+          "type": "work",
+          "workId": "w_movie903939",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_27",
+          "type": "work",
+          "workId": "w_movie1047041",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_28",
+          "type": "work",
+          "workId": "w_movie1209217",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_29",
+          "type": "work",
+          "workId": "w_movie1396965",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_decouverte_30",
+          "type": "work",
+          "workId": "w_movie1545621",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-18T10:18:04.000Z"
+    },
+    {
+      "id": "wo_conan_films",
+      "collectionId": "detective-conan--films",
+      "name": "Les films — ordre de sortie",
+      "kind": "release",
+      "description": "Ordre de sortie au Japon. Les films sont indépendants ; ceux liés à l’Organisation des hommes en noir se regardent idéalement après la série.",
+      "steps": [
+        {
+          "id": "s_wo_conan_films_0",
+          "type": "work",
+          "workId": "w_movie21422",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_1",
+          "type": "work",
+          "workId": "w_movie21452",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_2",
+          "type": "work",
+          "workId": "w_movie28808",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_3",
+          "type": "work",
+          "workId": "w_movie20677",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_4",
+          "type": "work",
+          "workId": "w_movie32022",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_5",
+          "type": "work",
+          "workId": "w_movie26662",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_6",
+          "type": "work",
+          "workId": "w_movie39202",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_7",
+          "type": "work",
+          "workId": "w_movie39203",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_8",
+          "type": "work",
+          "workId": "w_movie39204",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_9",
+          "type": "work",
+          "workId": "w_movie39205",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_10",
+          "type": "work",
+          "workId": "w_movie39206",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_11",
+          "type": "work",
+          "workId": "w_movie39207",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_12",
+          "type": "work",
+          "workId": "w_movie28764",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_13",
+          "type": "work",
+          "workId": "w_movie97375",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_14",
+          "type": "work",
+          "workId": "w_movie77617",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_15",
+          "type": "work",
+          "workId": "w_movie122583",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_16",
+          "type": "work",
+          "workId": "w_movie228805",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_17",
+          "type": "work",
+          "workId": "w_movie257512",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_18",
+          "type": "work",
+          "workId": "w_movie316873",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_19",
+          "type": "work",
+          "workId": "w_movie374856",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_20",
+          "type": "work",
+          "workId": "w_movie438058",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_21",
+          "type": "work",
+          "workId": "w_movie493006",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_22",
+          "type": "work",
+          "workId": "w_movie566555",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_23",
+          "type": "work",
+          "workId": "w_movie662638",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_24",
+          "type": "work",
+          "workId": "w_movie903939",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_25",
+          "type": "work",
+          "workId": "w_movie1047041",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_26",
+          "type": "work",
+          "workId": "w_movie1209217",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_27",
+          "type": "work",
+          "workId": "w_movie1396965",
+          "uncertain": false
+        },
+        {
+          "id": "s_wo_conan_films_28",
+          "type": "work",
+          "workId": "w_movie1545621",
+          "uncertain": false
+        }
+      ],
+      "updatedAt": "2026-11-18T10:18:04.000Z"
+    }
+  ]
+}
